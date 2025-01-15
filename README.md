@@ -10,6 +10,7 @@ Mining is a method of earning cryptocurrency by solving complex mathematical pro
 ---
 
 ## **Requirements**
+
 ### **Hardware**
 - GPU (NVIDIA or AMD recommended, 6GB+ VRAM)
 - CPU (Intel i5 or Ryzen 5 or better)
@@ -26,6 +27,7 @@ Mining is a method of earning cryptocurrency by solving complex mathematical pro
 ---
 
 ## **Setup Steps**
+
 ### 1. **Install and Update Drivers**
    - Install the latest GPU drivers from the official website:
      - [NVIDIA Drivers](https://www.nvidia.com/Download/index.aspx)
@@ -49,6 +51,16 @@ Mining is a method of earning cryptocurrency by solving complex mathematical pro
      - Reduce power limit by 70-80%.
      - Increase memory clock speed by 500-1000 MHz.
    - Monitor temperatures to avoid overheating.
+
+---
+
+## **Mining Setup Example**
+![Mining Rig Setup](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/blob/main/images/mining-setup.jpg)
+
+---
+
+## **Software Configuration**
+![Software Configuration](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/blob/main/images/software-config.jpg)
 
 ---
 
