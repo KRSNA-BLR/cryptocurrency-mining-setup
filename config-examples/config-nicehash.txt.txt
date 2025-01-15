@@ -1,0 +1,4 @@
+# NiceHash Miner Configuration Example
+- Wallet: Your_Wallet_Address
+- Algorithm: DaggerHashimoto
+- Server: stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
