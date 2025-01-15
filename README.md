@@ -64,6 +64,14 @@ Mining is a method of earning cryptocurrency by solving complex mathematical pro
 
 ---
 
+## **Example Configurations**
+We provide example configurations for popular mining software:
+
+- [NiceHash Configuration](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/blob/main/config-examples/config-nicehash.txt)
+- [PhoenixMiner Configuration](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/blob/main/config-examples/config-phoenixminer.txt)
+
+---
+
 ## **Tips for Success**
 - Ensure proper cooling and airflow for your mining rig.
 - Regularly update your mining software and drivers.
@@ -80,3 +88,4 @@ Mining cryptocurrency involves risks, including hardware wear and electricity co
 - [NiceHash Mining Guide](https://www.nicehash.com/help-center/mining)
 - [PhoenixMiner Setup](https://phoenixminer.org/)
 - [Ethereum Wallet Setup](https://ethereum.org/en/wallets/)
+
