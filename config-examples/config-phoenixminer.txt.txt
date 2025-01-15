@@ -1,3 +1,10 @@
+# PhoenixMiner Configuration Example
+
 -pool ssl://us1.ethermine.org:5555
--wal Your_Wallet_Address
+-wal Your_Wallet_Address.Your_Worker_Name
 -pass x
+
+# Instructions:
+# 1. Replace "Your_Wallet_Address" with your actual wallet address.
+# 2. Replace "Your_Worker_Name" with a unique worker name.
+# 3. Save and use this configuration in PhoenixMiner.
