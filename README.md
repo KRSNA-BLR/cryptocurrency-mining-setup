@@ -4,6 +4,25 @@ A complete guide to setting up cryptocurrency mining on a personal computer, inc
 
 ---
 
+## **Table of Contents**
+1. [Why Mine Cryptocurrency?](#why-mine-cryptocurrency)
+2. [Requirements](#requirements)
+    - [Hardware](#hardware)
+    - [Software](#software)
+3. [Setup Steps](#setup-steps)
+    - [Install and Update Drivers](#1-install-and-update-drivers)
+    - [Download and Configure Mining Software](#2-download-and-configure-mining-software)
+    - [Join a Mining Pool](#3-join-a-mining-pool)
+    - [Optimize Settings](#4-optimize-settings)
+4. [Mining Setup Example](#mining-setup-example)
+5. [Software Configuration](#software-configuration)
+6. [Example Configurations](#example-configurations)
+7. [Tips for Success](#tips-for-success)
+8. [Disclaimer](#disclaimer)
+9. [Resources](#resources)
+
+---
+
 ## **Why Mine Cryptocurrency?**
 Mining is a method of earning cryptocurrency by solving complex mathematical problems. This guide will help you set up your mining rig and start earning.
 
