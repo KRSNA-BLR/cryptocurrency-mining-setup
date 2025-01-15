@@ -1,0 +1,13 @@
+# Contributing to Cryptocurrency Mining Setup
+
+Thank you for considering contributing to this project! We welcome all contributions that help improve this guide.
+
+## How to Contribute
+
+1. **Fork the Repository:**
+   - Click the "Fork" button at the top of this page to create a copy of the repository in your GitHub account.
+
+2. **Clone Your Forked Repository:**
+   ```bash
+   git clone https://github.com/your-username/cryptocurrency-mining-setup.git
+   cd cryptocurrency-mining-setup
