@@ -1,5 +1,12 @@
 # Cryptocurrency Mining Setup 🚀
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Visits](https://badges.pufler.dev/visits/KRSNA-BLR/cryptocurrency-mining-setup)](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup)
+[![GitHub stars](https://img.shields.io/github/stars/KRSNA-BLR/cryptocurrency-mining-setup.svg)](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/stargazers)
+[![Forks](https://img.shields.io/github/forks/KRSNA-BLR/cryptocurrency-mining-setup.svg)](https://github.com/KRSNA-BLR/cryptocurrency-mining-setup/network/members)
+
+**Languages:** [English](README.md) | [Español](README_es.md)
+
 A complete guide to setting up cryptocurrency mining on a personal computer, including hardware, software, and optimization tips.
 
 ---
@@ -18,8 +25,9 @@ A complete guide to setting up cryptocurrency mining on a personal computer, inc
 5. [Software Configuration](#software-configuration)
 6. [Example Configurations](#example-configurations)
 7. [Tips for Success](#tips-for-success)
-8. [Disclaimer](#disclaimer)
-9. [Resources](#resources)
+8. [FAQ](#faq)
+9. [Disclaimer](#disclaimer)
+10. [Resources](#resources)
 
 ---
 
@@ -98,6 +106,33 @@ We provide example configurations for popular mining software:
 
 ---
 
+## **FAQ**
+
+### **1. Which cryptocurrencies can I mine with this setup?**
+You can mine any GPU-compatible cryptocurrency, such as Ethereum, Ravencoin, or Ergo, depending on the software and pool you choose.
+
+### **2. How much can I earn by mining?**
+Your earnings depend on several factors:
+- The cryptocurrency’s price.
+- The efficiency of your hardware.
+- The cost of electricity in your region.
+
+Use mining calculators like [WhatToMine](https://whattomine.com/) to estimate your earnings.
+
+### **3. What if my GPU overheats?**
+If you notice temperatures above 85°C:
+- Lower your overclocking settings.
+- Improve your rig’s ventilation.
+- Consider using new thermal paste or better fans.
+
+### **4. Is it legal to mine cryptocurrencies?**
+This depends on the laws of your country. Make sure you research and comply with local regulations.
+
+### **5. Do I need a high-speed internet connection to mine?**
+No, you don’t. A basic internet connection with good stability is sufficient to connect to the mining pool.
+
+---
+
 ## **Disclaimer**
 Mining cryptocurrency involves risks, including hardware wear and electricity costs. Proceed responsibly and only mine in regions where it is legally allowed.
 
@@ -107,4 +142,3 @@ Mining cryptocurrency involves risks, including hardware wear and electricity co
 - [NiceHash Mining Guide](https://www.nicehash.com/help-center/mining)
 - [PhoenixMiner Setup](https://phoenixminer.org/)
 - [Ethereum Wallet Setup](https://ethereum.org/en/wallets/)
-
