@@ -1,4 +1,11 @@
 # NiceHash Miner Configuration Example
-- Wallet: Your_Wallet_Address
-- Algorithm: DaggerHashimoto
-- Server: stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
+
+Wallet: Your_Wallet_Address
+Algorithm: DaggerHashimoto
+Server: stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
+Worker Name: Your_Worker_Name
+
+# Instructions:
+# 1. Replace "Your_Wallet_Address" with your actual wallet address.
+# 2. Replace "Your_Worker_Name" with a unique worker name.
+# 3. Save and use this configuration in NiceHash Miner.
